@@ -95,5 +95,5 @@ strings data.txt | grep "==="
 * Binary String Extraction: The strings utility parses non-text/binary files and returns sequences of printable characters of at least 4 characters in length.
 
 * Piped Pattern Filter: Piping the output to grep "===" isolates the specific password pattern from the rest of the extracted text.
-* 
+  
 ---
