@@ -32,7 +32,7 @@ cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'
 
 ```
 ### Technical Explanation
-*Character Translation: tr replaces characters from a source set with the corresponding characters of a target set. Shifting the alphabet mapping forward by 13 positions (A-Z to N-ZA-M) reverses the symmetric ROT13 cipher.
+* Character Translation: tr replaces characters from a source set with the corresponding characters of a target set. Shifting the alphabet mapping forward by 13 positions (A-Z to N-ZA-M) reverses the symmetric ROT13 cipher.
 
 ---
 
@@ -115,7 +115,7 @@ cat /etc/bandit_pass/bandit14
 ## Level 14 → Level 15
 
 ### Objective
-Transmit the current bandit14 password to a listening service on network port 30000 to retrieve the bandit15 password.
+* Transmit the current bandit14 password to a listening service on network port 30000 to retrieve the bandit15 password.
 
 ### Commands Used
 ```bash
