@@ -1,4 +1,4 @@
-# Bandit Levels 06 to 10 Write-ups
+# Bandit Levels 05 to 09 Write-ups
 
 > Technical documentation and command methodology for OverTheWire Bandit levels 6 through 10.
 
