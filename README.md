@@ -4,8 +4,8 @@ Hands-on Linux CLI and security fundamentals documentation based on OverTheWire'
 
 ## 📁 Level Write-ups
 
-* 📂 [Levels 00 to 05](./levels/level-00-to-05.md) – Basic Navigation, Special Filenames & Hidden Files
+* 📂 [Levels 00 to 04](./levels/level-00-to-04.md) – Basic Navigation, Special Filenames & Hidden Files
 
-* 📂 [Levels 06 to 10](./levels/level-06-to-10.md) – Search Filters, Stream Redirection & Text Processing
+* 📂 [Levels 05 to 09](./levels/level-05-to-09.md) – Search Filters, Stream Redirection & Text Processing
   
-* 📂 [Levels 10 to 15](./levels/level-10-to-15.md) – Encoding, Multi-Stage Decompression, SSH Keys & Sockets
+* 📂 [Levels 10 to 14](./levels/level-10-to-14.md) – Encoding, Multi-Stage Decompression, SSH Keys & Sockets
