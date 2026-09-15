@@ -1,6 +1,6 @@
 # bandit-overthewire-writeup
 
-Hands-on Linux CLI and security fundamentals documentation based on OverTheWire's Bandit wargame.
+Skills: Linux CLI, SSH, file permissions, encoding/decoding, privilege escalation, port scanning, SUID exploitation.
 
 ## 📁 Level Write-ups
 
